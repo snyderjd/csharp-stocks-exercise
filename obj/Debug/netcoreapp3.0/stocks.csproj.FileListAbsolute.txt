@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/bin/Debug/netcoreapp3.0/stocks
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/bin/Debug/netcoreapp3.0/stocks.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/bin/Debug/netcoreapp3.0/stocks.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/bin/Debug/netcoreapp3.0/stocks.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/bin/Debug/netcoreapp3.0/stocks.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/bin/Debug/netcoreapp3.0/stocks.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/obj/Debug/netcoreapp3.0/stocks.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/obj/Debug/netcoreapp3.0/stocks.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/obj/Debug/netcoreapp3.0/stocks.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/obj/Debug/netcoreapp3.0/stocks.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/stocks/obj/Debug/netcoreapp3.0/stocks.pdb
